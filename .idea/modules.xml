@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-service/dubbo-service-api/dubbo-service-api.iml" filepath="$PROJECT_DIR$/dubbo-service/dubbo-service-api/dubbo-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-client/nacos-client.iml" filepath="$PROJECT_DIR$/nacos-client/nacos-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-server/nacos-server.iml" filepath="$PROJECT_DIR$/nacos-server/nacos-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dashboard/sentinel-dashboard.iml" filepath="$PROJECT_DIR$/sentinel-dashboard/sentinel-dashboard.iml" />
+    </modules>
+  </component>
+</project>

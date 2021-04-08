@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dubbo-service/dubbo-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-service/dubbo-service-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-service/dubbo-service-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq/rocketmq-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq/rocketmq-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sentinel/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

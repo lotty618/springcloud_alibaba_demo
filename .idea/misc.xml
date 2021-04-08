@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos_server/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos_client/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-server/pom.xml" />
+        <option value="$PROJECT_DIR$/security/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq/rocketmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq/rocketmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -15,6 +15,6 @@ public class SendMsgController {
     @RequestMapping("/send")
     public String sendMsg() {
         rocketMQTemplate.convertAndSend("test-topic", "Hello RocketMQ! It's for test!");
-        return "success";
+        return "消息发送成功！";
     }
 }
